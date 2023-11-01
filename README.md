@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SANDHIYA G</h1>
+<h1 align="center">Hi 👋, I'm SANDHIYA GANESAN</h1>
 <h3 align="center">An ardent student of COMPUTER SCIENCE</h3>
 
 - 🔭 I’m currently working on **Artificial Intelligence**
