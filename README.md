@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm SANDHIYA GANESAN</h1>
 <h3 align="center">An ardent student of COMPUTER SCIENCE</h3>
 
-- 🔭 I’m currently working on **Artificial Intelligence**
+- 🔭 I’m currently working on **Artificial Intelligence and Machine Learning**
 
-- 🌱 I’m currently learning **MERN, Machine learning**
+- 🌱 I’m currently learning **Spring Boot, Machine learning**
 
-- 💬 Ask me about **HTML/CSS/JS, Artificial Intelligence**
+- 💬 Ask me about **HTML/CSS/JS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
