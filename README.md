@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Artificial Intelligence and Machine Learning**
 
-- 🌱 I’m currently learning **Spring Boot, Machine learning**
+- 🌱 I’m currently learning **Spring Boot, Java**
 
-- 💬 Ask me about **HTML/CSS/JS**
+- 💬 Ask me about **Web Technologies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
