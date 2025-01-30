@@ -5,7 +5,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-<img align="right" alt="Coding" width="350" src="https://github.com/sandyg6/sandyg6/blob/main/katzee.png"/>
+<img align="right" alt="Coding" width="370" src="https://github.com/sandyg6/sandyg6/blob/main/katzee.png"/>
 
 - 🔭 I’m currently working on **Artificial Intelligence and Machine Learning**
 
