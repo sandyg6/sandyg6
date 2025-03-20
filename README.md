@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Artificial Intelligence and Machine Learning**
 
-- 🌱 I’m currently learning **Spring Boot, DSA**
+- 🌱 I’m currently learning **LLMs, DSA**
 
 - 💬 Ask me about **Machine Learning**
 
